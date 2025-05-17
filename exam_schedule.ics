@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+TZID:Asia/Ho_Chi_Minh
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Subject: Nguyên lý Ngôn ngữ Lập trình (CO3005)\nType: CK\nGroup: L07_B_Thi\nLocation: BK-DAn H6-308\nDuration: 90 minutes
+DTEND:20250521T013000Z
+LOCATION:BK-DAn H6-308
+DTSTART:20250521T000000Z
+SUMMARY:CK: Nguyên lý Ngôn ngữ Lập trình (L07_B_Thi)
+UID:ce400f9c-8763-4552-a8f0-4774601bfa2a@ce40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Subject: Phát triển Ứng dụng trên Thiết bị Di động (CO3043)\nType: CK\nGroup: L01_C_Thi\nLocation: BK-DAn H3-403\nDuration: 90 minutes
+DTEND:20250527T013000Z
+LOCATION:BK-DAn H3-403
+DTSTART:20250527T000000Z
+SUMMARY:CK: Phát triển Ứng dụng trên Thiết bị Di động (L01_C_Thi)
+UID:8dbe2941-58ef-404c-944e-ce67d34d4370@8dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Subject: Kinh tế học Đại cương (IM1013)\nType: CK\nGroup: L03_B_Thi\nLocation: BK-DAn H6-213\nDuration: 70 minutes
+DTEND:20250523T071000Z
+LOCATION:BK-DAn H6-213
+DTSTART:20250523T060000Z
+SUMMARY:CK: Kinh tế học Đại cương (L03_B_Thi)
+UID:086fb877-1eab-4c86-8b5c-eb4d52eaa946@086f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Subject: Lịch sử Đảng Cộng sản Việt Nam (SP1039)\nType: CK\nGroup: L10_D_Thi\nLocation: BK-DAn H6-405\nDuration: 50 minutes
+DTEND:20250529T032000Z
+LOCATION:BK-DAn H6-405
+DTSTART:20250529T023000Z
+SUMMARY:CK: Lịch sử Đảng Cộng sản Việt Nam (L10_D_Thi)
+UID:ce322024-ed56-4ae0-9775-199578da27ba@ce32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Subject: Nguyên lý Ngôn ngữ Lập trình (CO3005)\nType: GK\nGroup: L07_B_Ktr\nLocation: BK-DAn H6-211\nDuration: 60 minutes
+DTEND:20250311T070000Z
+LOCATION:BK-DAn H6-211
+DTSTART:20250311T060000Z
+SUMMARY:GK: Nguyên lý Ngôn ngữ Lập trình (L07_B_Ktr)
+UID:5c8f5045-470f-43c0-b416-faa87b615ee1@5c8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Subject: Kinh tế học Đại cương (IM1013)\nType: GK\nGroup: L03_B_Ktr\nLocation: BK-DAn H6-210\nDuration: 70 minutes
+DTEND:20250316T071000Z
+LOCATION:BK-DAn H6-210
+DTSTART:20250316T060000Z
+SUMMARY:GK: Kinh tế học Đại cương (L03_B_Ktr)
+UID:b5164a49-1cbb-4d34-8790-217dfcad5522@b516.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+myBk/app
+Toggle navigation
+User ImagePHẠM LÊ HUY
+User Image
+PHẠM LÊ HUY
+
+ Khoa Khoa học và Kỹ thuật Máy tính
+Sinh viên
+Dịch vụ sinh viên
+Kết quả học tập
+ Tài liệu hướng dẫn
+Hệ thống quản lý Quản lý người dùng
+ Quản lý người dùng Người dùng
+ Trở về trang trước
+LỊCH KIỂM TRA - THI HỌC KỲ
+Họ tên: PHẠM LÊ HUY (2252260)
+
+ 
+20242 - Học kỳ 2 Năm học 2024 - 2025(Hiện hành)
+Trình bày 
+10
+ dòng/trang
+Tìm kiếm:
+Học kỳ	Môn học	Nhóm lớp	Ngày thi	Loại thi	Cơ sở	Mã phòng	Thứ	Giờ bắt đầu	Tổng số phút	Cập nhật cuối cùng vào lúc
+20242	CO3005 - Nguyên lý Ngôn ngữ Lập trình	L07_B_Ktr	2025-03-11	GK	BK-DAn	H6-211	3	13g00	60	2025-03-05 18:03:00
+20242	IM1013 - Kinh tế học Đại cương	L03_B_Ktr	2025-03-16	GK	BK-DAn	H6-210	8	13g00	70	2025-03-05 18:03:00
+20242	CO3005 - Nguyên lý Ngôn ngữ Lập trình	L07_B_Thi	2025-05-21	CK	BK-DAn	H6-308	4	07g00	90	2025-03-14 15:03:00
+20242	IM1013 - Kinh tế học Đại cương	L03_B_Thi	2025-05-23	CK	BK-DAn	H6-213	6	13g00	70	2025-03-14 15:03:00
+20242	CO3043 - Phát triển Ứng dụng trên Thiết bị Di động	L01_C_Thi	2025-05-27	CK	BK-DAn	H3-403	3	07g00	90	2025-03-14 15:03:00
+20242	SP1039 - Lịch sử Đảng Cộng sản Việt Nam	L10_D_Thi	2025-05-29	CK	BK-DAn	H6-405	5	09g30	50	2025-03-14 15:03:00
+Trình bày từ dòng 1 đến 6 / 6 dòng
+Lùi1Tới
+Version 2.4.0Copyright © 2025 Academic Affairs Office. All rights reserved.
